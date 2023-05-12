@@ -2,7 +2,7 @@ import os, sys
 
 try:
 
-    __import__("Crack").wm()
+    __import__("man").wm()
 
 except Exception as e:
 
